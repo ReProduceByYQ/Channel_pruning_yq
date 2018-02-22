@@ -1,5 +1,5 @@
 # Channel_pruning_yq
-This repo is re-produce for Channel_pruning
+This repo is re-produce for Channel_pruning, Framework is [Caffe](https://github.com/BVLC/caffe).
 
 The original source code :[yihui-he](https://github.com/yihui-he/channel-pruning).
 
@@ -33,7 +33,5 @@ __config_cratio.json__ | It is for __Channel Pruning(layer-by-layer)__ configura
 ### Todo
 - [x] support VGG
 - [x] Combination of Conv layer and BN layer
-- [] support ResNet
-- [] support Faster RCNN
-
-
+- [ ] support ResNet
+- [ ] support Faster RCNN
