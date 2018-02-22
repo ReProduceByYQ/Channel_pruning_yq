@@ -10,7 +10,7 @@ Two main function in my implementation  :
 * channel prune
 
 ### Notice:
- Now, it is only for native ConvNet such as VGG, not work for multi-branch ConvNet such as ResNet. 
+ Now, it is only for native ConvNet such as VGG, not work for multi-branch ConvNet such as ResNet. I don`t implementation channel decompose ,because it is unhelpful in my test experiment!!!! So ,I have 2C not 3C.
 
 File  | Intro |
 :-------------------------:|:-------------------------
